@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HealthyAppsAPK",
+    "slug": "HealthyAppsAPK",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HealthyAppsAPK"
+}
