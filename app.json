@@ -3,9 +3,24 @@
     "name": "HealthyAppsAPK",
     "slug": "HealthyAppsAPK",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image/icon.png",
+    "userInterfaceStyle": "light",
+
+    "splash": {
+      "image": "./assets/image/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+
+    "extra": {
+      "eas": {
+        "projectId": "4e0ece4c-ba6a-4445-88b5-747d940e01b5"
+      }
+    }
   },
   "name": "HealthyAppsAPK"
 }
